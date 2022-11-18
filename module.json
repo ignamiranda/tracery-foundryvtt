@@ -1,6 +1,6 @@
 {
   "id": "tracery-foundryvtt",
-  "title": "Tracery For Foundry",
+  "title": "Tracery",
   "description": "A text generation library usable in macros.",
   "authors": [
     {"name": "Kate Compton"}
