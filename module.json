@@ -1,0 +1,19 @@
+{
+  "id": "tracery-foundryvtt",
+  "title": "Tracery For Foundry",
+  "description": "A text generation library usable in macros.",
+  "authors": [
+    {"name": "Kate Compton"}
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "url": "https://github.com/ignamiranda/tracery-foundryvtt",
+  "manifest": "https://raw.githubusercontent.com/ignamiranda/tracery-foundryvtt/master/module.json",
+  "download": "https://github.com/ignamiranda/tracery-foundryvtt/archive/refs/heads/master.zip",
+  "scripts": [
+	"./js/tracery.min.js"
+  ]
+}
